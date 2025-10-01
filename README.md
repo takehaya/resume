@@ -6,8 +6,10 @@
 - https://profile.takemio.net/
 
 ## 職務要約
-モバイルコアの自社開発・運用やゲーム機向けSDK開発など、ソフトウェアからインフラまで幅広い領域でシステム開発に従事してきました。C/Goを中心とした高性能ネットワーク処理やクラウド基盤の最適化により、大幅な性能改善やコスト削減を実現するとともに、OSSへの貢献も行ってきました。
-加えて、社内勉強会の主催や若手育成、外部登壇や技術ブログ執筆を通じて知見を広く共有し、組織とコミュニティ双方の発展に貢献してきました。課題解決に向けた主体的な行動と技術力を両輪として、プロジェクト推進と人材育成に取り組んでおります。
+モバイルコアの自社開発・運用やゲーム機向けSDK開発など、ソフトウェアからインフラまで幅広い領域でシステム開発に携わってきました。
+特にC/Goを中心とした高性能なネットワーク処理やクラウド基盤の最適化により、大幅な性能改善とコスト削減を実現し、OSSへの貢献も行っています。
+
+また、社内勉強会の主催や若手育成、外部登壇や技術ブログ執筆を通じて知見を共有し、組織とコミュニティの発展に寄与してきました。課題解決に向けた主体的な行動力と技術力を軸に、プロジェクト推進と人材育成に取り組んでいます。
 
 ## さくらインターネット株式会社 / BBSakura Networks株式会社(2022/10~現在)
 - さくらインターネット株式会社から出向
@@ -69,17 +71,16 @@
 
 ## 公開エントリ
 ### 登壇資料一覧
-- [Go Conference: Goで体感するMultipath TCP ― Go 1.24 時代の MPTCP Listener を理解する](https://speakerdeck.com/takehaya/go-conference-2025-godeti-gan-surumultipath-tcp-go-1-dot-24-shi-dai-no-mptcp-listener-woli-jie-suru)※CfP投稿は 244/27 = 約 9 倍の倍率
+- [Go Conference: Goで体感するMultipath TCP ― Go 1.24 時代の MPTCP Listener を理解する](https://speakerdeck.com/takehaya/go-conference-2025-godeti-gan-surumultipath-tcp-go-1-dot-24-shi-dai-no-mptcp-listener-woli-jie-suru) ※CfP投稿は 244/27 = 約 9 倍の倍率
 - [Japan Community Day at KubeCon + CloudNativeCon Japan 2025: Programmable Bandwidth Management with eBPF](https://speakerdeck.com/takehaya/programmable-bandwidth-management-with-ebpf)
 - [Japan Community Day at KubeCon + CloudNativeCon Japan 2025: eBPF at Mobile Network Data Plane](https://speakerdeck.com/takehaya/ebpf-at-mobile-network-data-plane)招待された講演
-- [CloudNative Days Winter 2024: eBPF Deep Dive: Architecture and Safety Mechanisms](https://event.cloudnativedays.jp/cndw2024/talks/2398)※CfP投稿は 78/24 = 3.25倍の倍率
-- [YAPC::Hakodate2024: Perlで始めるeBPF: 自作Loaderの作り方](https://fortee.jp/yapc-hakodate-2024/proposal/2c24d2e4-f488-414f-ae3d-1df24180867b)※8.25倍の倍率。
+- [CloudNative Days Winter 2024: eBPF Deep Dive: Architecture and Safety Mechanisms](https://event.cloudnativedays.jp/cndw2024/talks/2398) ※CfP投稿は 78/24 = 3.25倍の倍率
+- [YAPC::Hakodate2024: Perlで始めるeBPF: 自作Loaderの作り方](https://fortee.jp/yapc-hakodate-2024/proposal/2c24d2e4-f488-414f-ae3d-1df24180867b) ※8.25倍の倍率。
 - [eBPF Meetup #1: "Exploring XDP: Fundamentals and Real-World Implementations in Mobile Network Data Plane"](https://speakerdeck.com/takehaya/exploring-xdp-fundamentals-and-real-world-implementations-in-mobile-network-data-plane)
 - [Wakamonog13 LT: VPPで始めるHigh Performance BGPルーター](https://speakerdeck.com/takehaya/wakamong13-lt-getstarted-with-vpp-high-performance-bgp-router)
 - [JANOG53 LT / 自作k6 Extension利用した NFVへの負荷計測手法の紹介](https://speakerdeck.com/takehaya/janog53-lt-introduction-to-load-measurement-method-for-nfv-using-self-made-k6-extension)
-- [PyCon APAC 2023: 自作パケット処理系の性能測定と可視化&改善のPDCAを回して最強のパケット処理系の作り方を学ぼう](https://2023-apac.pycon.jp/timetable?id=G3LDSG)※CfP投稿は約4.3倍
-- [シン・ITRC meeting 53 / SRv6 Mobile User Plane(MUP) の紹介とMUP-BGPのOSS実装における相互接続性について](https://speakerdeck.com/takehaya/srv6-mobile-user-plane-mup-noshao-jie-tomup-bgpnoossshi-zhuang-niokeruxiang-hu-jie-sok-xing-nituite)
-招待された公演
+- [PyCon APAC 2023: 自作パケット処理系の性能測定と可視化&改善のPDCAを回して最強のパケット処理系の作り方を学ぼう](https://2023-apac.pycon.jp/timetable?id=G3LDSG) ※CfP投稿は約4.3倍
+- [シン・ITRC meeting 53 / SRv6 Mobile User Plane(MUP) の紹介とMUP-BGPのOSS実装における相互接続性について](https://speakerdeck.com/takehaya/srv6-mobile-user-plane-mup-noshao-jie-tomup-bgpnoossshi-zhuang-niokeruxiang-hu-jie-sok-xing-nituite) 招待された公演
 
 ### 執筆した外部ブログ
 - [eBPF/XDPでパケット処理をするときにやってるテスト方法の紹介 - BBSakura Networks Blog](https://blog.bbsakura.net/posts/2024/12/24/145413)
