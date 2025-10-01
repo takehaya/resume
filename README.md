@@ -3,7 +3,7 @@
 ## 個人データ
 - 氏名: 早坂 彪流 / HAYASAKA Takeru
 - ID: `takemioIO`, `takehaya`
-- [ta](https://profile.takemio.net/)
+- https://profile.takemio.net/
 
 ## さくらインターネット株式会社 / BBSakura Networks株式会社(2022/10~現在)
 - さくらインターネット株式会社から出向
