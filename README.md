@@ -96,6 +96,38 @@
 - [JPNIC News & Views Column「もう一つのインターネット：モバイルローミングの世界」](https://www.nic.ad.jp/ja/mailmagazine/backnumber/2024/vol2090.html#column): JPNICから依頼を受けてコラムを書きました
 - [ICTSC 2023 二次予選問題作問・解説 直径と半径](https://blog.icttoracon.net/2023/12/22/ictsc2023pr/dra/): ICTSCという学生向けコンテストの運営委員として参加して問題を作問しました
 
+### OSS貢献
+- vyos
+  - SSH Certificate configuration という機能
+    - https://vyos.dev/T6013
+    - https://github.com/vyos/vyos-1x/pull/4234
+    - https://github.com/vyos/vyos-1x/pull/4266
+    - https://github.com/vyos/vyos-documentation/pull/1578
+- vpp
+  - https://github.com/search?q=repo%3AFDio%2Fvpp+hayasaka&type=commits
+    - srv6-mobile: Implement SRv6 mobile API funcs
+      - SRv6-MUPのAPIを定義した
+    - sr: support define src ipv6 per encap policy
+      - SRv6 policy毎にSrcアドレスを変更可能にする
+    - ip: support flow-hash gtpv1teid
+      - GTP-UのTEIDをベースにHashを取ってECMPできる
+- exabgp
+  - MUP-BGPの追加
+    - https://github.com/Exa-Networks/exabgp/pulls?q=is%3Apr+author%3Atakehaya+is%3Aclosed+
+- Linux
+  - ethtool: Add GTP RSS hash options to ethtool.h
+  - ice: Implement RSS settings for GTP using ethtool
+      - https://www.spinics.net/lists/netdev/msg979517.html
+- その他細々としたもの
+  - llama-index
+    - https://github.com/run-llama/llama_index/pull/13863
+    - https://github.com/run-llama/llama_index/pull/13761
+  - fulvia(NTTCom, co-autherに自分が含まれてるのがわかると思います)
+    - https://github.com/nttcom/fluvia
+  - co-auther
+    - https://github.com/erkanzileli/co-author/pull/1
+
+
 ## EDUCATION
 - MD: 北陸先端大学院大学 先端科学技術専攻: 2024/04-現在
 - BD: 東北学院大学 工学部 情報基盤工学科: 2017/04 - 2021/03
