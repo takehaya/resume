@@ -17,7 +17,7 @@
 ### フルMVNO事業
 - 説明: フルMVNO事業者として一からモバイルコア自作し、運用開発をしています
 - プログラミング言語: C, Go, Python, Terraform, Ansible...etc
-- その他キーワード: Google Cloud(Cloud Run, Spanner, Bigquery, Cloud monitoring ..etc), Linux, eBPF,　XDP, ConnectRPC, gRPC
+- その他キーワード: Google Cloud(Cloud Run, Spanner, Bigquery, Cloud monitoring ..etc), Github Actions, Linux, eBPF,　XDP, ConnectRPC, gRPC
 - 業務内容
   - モバイルコア開発
   - 他のMVNOとのBGPを利用した相互接続オペレーション
