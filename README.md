@@ -65,7 +65,7 @@
 - 職位: ソフトウェアエンジニア
 ### コンソール機開発
 - ゲーム機におけるSDK開発およびインフラの設計と構築に取り組んでいました
-- 一億代を超えるゲーム機本体に対する設定ファイル配信機能の設計と開発: keyword: C/C++,Go,AWS{lambda, dynamodb}, datadog,gRPC-GW,terraform,docker
+- 一億台を超えるゲーム機本体に対する設定ファイル配信機能の設計と開発: keyword: C/C++,Go,AWS{lambda, dynamodb}, datadog,gRPC-GW,terraform,docker
 - WebRTCを利用したリアルタイムコミュニケーション機能: keyword: C/C++, libwebrtc
 - 新人向けの研修担当: コンソール機が行う通信をMITMをしてDumpし、理解する講義などを行いました
 
