@@ -133,7 +133,7 @@
     * [https://github.com/erkanzileli/co-author/pull/1](https://github.com/erkanzileli/co-author/pull/1)
 
 ## EDUCATION
-* MD: 北陸先端大学院大学 先端科学技術専攻（2024/04〜現在）
+* MSc(在学中): 北陸先端大学院大学 先端科学技術専攻（2024/04〜現在）
 * BD: 東北学院大学 工学部 情報基盤工学科（2017/04〜2021/03）
 
 ## 資格
