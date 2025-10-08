@@ -97,11 +97,9 @@
 * [勝手にレポート！BBSakura の社員はどんな環境で仕事をしているのか？ - BBSakura Networks Blog](https://blog.bbsakura.net/posts/bbs-report-workenv/)
 
 ### 執筆に携わった論文
-
 * [Multipath Transport Protocol を用いた SRv6 BGP Egress Peer Engineering による高品質・高信頼なコンテンツ配信](https://www.ipsj.or.jp/dp/contents/publication/59/TR0503-03.html)
 
 ### その他
-
 * [ICTSC 2024 二次予選問題作問・解説 にゃーん](https://blog.icttoracon.net/2024/12/14/ictsc2024pr/ngx/): 学生向けコンテスト ICTSC の運営委員として、問題作成・解説を担当
 * [JPNIC News & Views Column「もう一つのインターネット：モバイルローミングの世界」](https://www.nic.ad.jp/ja/mailmagazine/backnumber/2024/vol2090.html#column): 依頼を受けてコラムを執筆
 * [ICTSC 2023 二次予選問題作問・解説 直径と半径](https://blog.icttoracon.net/2023/12/22/ictsc2023pr/dra/): ICTSC の運営委員として問題を作成
