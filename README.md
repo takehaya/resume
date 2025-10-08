@@ -4,6 +4,7 @@
 
 * 氏名: 早坂 彪流 / HAYASAKA Takeru
 * ID: `takemioIO`, `takehaya`
+* ※社会人(フルタイム)になってからの貢献を記述しています。学生時代のインターンやコンテストなどの貢献を確認したい場合は以下のプロフィールサイトを参照してください。
 * [https://profile.takemio.net/](https://profile.takemio.net/)
 
 ## 職務要約
