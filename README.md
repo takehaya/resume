@@ -43,7 +43,7 @@
   * 倉庫事業者と粘り強く交渉・調整し、SIM 発送機能を内製化。工期を数か月短縮し、**約1,000万円弱** と見積もられていた改修コストを削減
   * CI/CD とログ基盤を整備。Readiness/Liveness Probe を整理・活用し、サービスの安定性を向上
   * SRv6 MUP の研究開発を通じ、IETF 116 において Cisco・古河・Arrcus の製品と、ExaBGP/GoBGP（自作機能を実装）との相互接続検証に成功
-    * 具体的には ExaBGP に MUP-BGP を実装し、upstream化を成功させてる。
+    * 具体的には ExaBGP に MUP-BGP を実装し、upstream化を成功
 
 ### 本務以外での活動実績
 * 技術的フィジビリティ確認への貢献
