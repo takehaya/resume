@@ -18,10 +18,10 @@
 * 所属: モバイル開発チーム
 * 職位: シニアソフトウェアエンジニア
 
-### フル MVNO 事業
+### フル MVNO 事業(2022/10〜現在)
 * 説明: フル MVNO 事業者として、モバイルコアをゼロから自社開発し、運用・開発を担当
 * プログラミング言語: C, Go, Python, Terraform, Ansible など
-* その他キーワード: Google Cloud（Cloud Run, Spanner, BigQuery, Cloud Monitoring など）, GitHub Actions, Linux, eBPF, XDP, ConnectRPC, gRPC
+* その他キーワード: Google Cloud（Cloud Run, Spanner, BigQuery, Cloud Monitoring など）, GitHub Actions, Linux, eBPF, XDP, ConnectRPC, gRPC, FRR
 * 業務内容
   * モバイルコア開発
   * 他 MVNO との BGP を用いた相互接続オペレーション
@@ -45,6 +45,18 @@
   * SRv6 MUP の研究開発を通じ、IETF 116 において Cisco・古河・Arrcus の製品と、ExaBGP/GoBGP（自作機能を実装）との相互接続検証に成功
     * 具体的には ExaBGP に MUP-BGP を実装し、upstream化を成功
 
+### 仮想基盤開発(2025/10〜現在)
+* 説明: NaaS 事業者として、NFV向け仮想基盤をゼロから自社開発し、研究・開発リードを担当
+* プログラミング言語: Go, Python, Terraform, Ansible など
+* その他キーワード: Linux, OvS, etcd, libvirt, FRR, EVPN-VXLAN, ConnectRPC, Google Cloud, GitHub Actions
+* 業務内容
+  * NFVをターゲットにした仮想基盤の開発
+  * 既存サービス網との相互接続
+* 実績
+  * 3~5名ほどのチームのリーダーとして人・技術両方の面からプロジェクトを牽引
+    * 学生アルバイト等を含めると最大8名ほど
+  * クラスタ間でのデータのやり取りなどを含めた設計・開発を実施
+
 ### 本務以外での活動実績
 * 技術的フィジビリティ確認への貢献
   * サービス展開の実現可能性評価のため、簡易な仮想基盤や RAG を自作
@@ -57,6 +69,7 @@
     * [https://adventar.org/calendars/8572](https://adventar.org/calendars/8572)
   * Google Cloud Next にて Spanner 開発 PM に機能要望を提案
 * 育成
+  * 開発チーム内でのメンタリングを通じた後進の育成
   * インフラ開発エンジニアの育成（社内ラボ制度の運用を通じた若手育成）
   * ICTSC（インフラトラブルシューティングコンテスト）の運営参加と、他メンバーの巻き込みを通じた育成
   * 社内輪読会の主催
@@ -100,7 +113,8 @@
 * [Multipath Transport Protocol を用いた SRv6 BGP Egress Peer Engineering による高品質・高信頼なコンテンツ配信](https://www.ipsj.or.jp/dp/contents/publication/59/TR0503-03.html)
 
 ### その他
-* [ICTSC 2024 二次予選問題作問・解説 にゃーん](https://blog.icttoracon.net/2024/12/14/ictsc2024pr/ngx/): 学生向けコンテスト ICTSC の運営委員として、問題作成・解説を担当
+* [ICTSC2025 二次予選 問題解説: The Handover of the Handover](https://blog.icttoracon.net/2025/12/27/ictsc2025pr2/mpt/): 学生向けコンテスト ICTSC の運営委員として、問題作成・解説を担当
+* [ICTSC 2024 二次予選問題作問・解説 にゃーん](https://blog.icttoracon.net/2024/12/14/ictsc2024pr/ngx/): ICTSC の運営委員として、問題作成・解説を担当
 * [JPNIC News & Views Column「もう一つのインターネット：モバイルローミングの世界」](https://www.nic.ad.jp/ja/mailmagazine/backnumber/2024/vol2090.html#column): 依頼を受けてコラムを執筆
 * [ICTSC 2023 二次予選問題作問・解説 直径と半径](https://blog.icttoracon.net/2023/12/22/ictsc2023pr/dra/): ICTSC の運営委員として問題を作成
 
